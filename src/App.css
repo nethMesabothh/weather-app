@@ -1,0 +1,10 @@
+* {
+  box-sizing: inherit;
+}
+html {
+  color: #eee;
+}
+body {
+  background: #242424;
+  box-sizing: border-box;
+}
